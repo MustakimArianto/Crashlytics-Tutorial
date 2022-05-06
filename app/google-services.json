@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "198603913064",
+    "project_id": "crashlytics-tutorial",
+    "storage_bucket": "crashlytics-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198603913064:android:40cd65903bf8f9b2fb08dd",
+        "android_client_info": {
+          "package_name": "com.mustakimarianto.crashlyticstutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198603913064-m9lo342flgcdf3jmt9eqgj3bfl2t5tsq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mustakimarianto.crashlyticstutorial",
+            "certificate_hash": "c7c0ffb79712be729bf4f3870067973a5f6a3d2a"
+          }
+        },
+        {
+          "client_id": "198603913064-sno2s5dceevcr3b5ld32lhf1rmjk8d09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSfmzekYR6fTM6WXupRwbgvnLOxcrQt-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198603913064-sno2s5dceevcr3b5ld32lhf1rmjk8d09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
